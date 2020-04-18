@@ -127,8 +127,8 @@ function ready(error, MAP, DATA, LOC) {
     svg.append("circle").attr("cx",50).attr("cy",160).attr("r", 6).style("fill", "orange")
     svg.append("circle").attr("cx",50).attr("cy",190).attr("r", 6).style("fill", "blue")
     svg.append("circle").attr("cx",50).attr("cy",220).attr("r", 6).style("fill", "green")
-    svg.append("text").attr("x", 70).attr("y", 130).text(">0.02%").style("font-size", "15px").attr("alignment-baseline","middle")
-    svg.append("text").attr("x", 70).attr("y", 160).text("0.01% - 0.02%").style("font-size", "15px").attr("alignment-baseline","middle")
-    svg.append("text").attr("x", 70).attr("y", 190).text("0% - 0.01%").style("font-size", "15px").attr("alignment-baseline","middle")
-    svg.append("text").attr("x", 70).attr("y", 220).text("0%").style("font-size", "15px").attr("alignment-baseline","middle")
+    svg.append("text").attr("x", 70).attr("y", 130).text(">0.02% (Very High Risk Zone)").style("font-size", "15px").attr("alignment-baseline","middle")
+    svg.append("text").attr("x", 70).attr("y", 160).text("0.01% - 0.02% (High Risk Zone)").style("font-size", "15px").attr("alignment-baseline","middle")
+    svg.append("text").attr("x", 70).attr("y", 190).text("0% - 0.01% (Moderate Risk Zone)").style("font-size", "15px").attr("alignment-baseline","middle")
+    svg.append("text").attr("x", 70).attr("y", 220).text("0% (Low Risk Zone)").style("font-size", "15px").attr("alignment-baseline","middle")
 };

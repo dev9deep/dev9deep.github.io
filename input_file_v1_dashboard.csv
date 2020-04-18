@@ -1,0 +1,26 @@
+Country,State,City,Ward location,Ward,Population,Density per square kilometer,Senior citizen %,Area,Educational institutes,Hospitals,Supermarts/malls,Critical congestion points,Commercial complexes,Residential areas
+India,Maharashtra,Mumbai,Colaba,A,210847,16868,0.14,12.5,54,40,20,0,0,0
+India,Maharashtra,Mumbai,Sanhurst Road,B,140633,56936,0.14,2.47,48,32,32,0,0,0
+India,Maharashtra,Mumbai,Marine Lines,C,202922,114001,0.14,1.78,43,23,21,0,0,0
+India,Maharashtra,Mumbai,Grant Road,D,382841,57744,0.14,6.63,23,43,21,0,0,0
+India,Maharashtra,Mumbai,Byculla,E,440335,59505,0.14,7.4,32,57,12,0,0,0
+India,Maharashtra,Mumbai,Parel,F/S,396122,28294,0.14,14,42,43,21,0,0,0
+India,Maharashtra,Mumbai,Matunga,F/N,524393,40400,0.14,12.98,53,32,23,0,0,0
+India,Maharashtra,Mumbai,Elphinstone,G/S,457931,45793,0.14,10,54,21,21,0,0,0
+India,Maharashtra,Mumbai,Dadar/Plaza,G/N,582007,64168,0.14,9.07,33,33,23,0,0,0
+India,Maharashtra,Mumbai,Khar/Santacruz,H/E,580835,42929,0.14,13.53,54,23,32,0,0,0
+India,Maharashtra,Mumbai,Bandra,H/W,337391,29211,0.14,11.55,65,42,25,0,0,0
+India,Maharashtra,Mumbai,Andheri (East),K/E,810002,32688,0.14,24.78,45,24,26,0,0,0
+India,Maharashtra,Mumbai,Andheri (West),K/W,700680,29956,0.14,23.39,34,23,26,0,0,0
+India,Maharashtra,Mumbai,Kurla,L,778218,49006,0.14,15.88,32,23,28,0,0,0
+India,Maharashtra,Mumbai,Chembur East,M/E,674850,20765,0.14,32.5,23,23,29,0,0,0
+India,Maharashtra,Mumbai,Chembur West,M/W,414040,21233,0.14,19.5,65,43,24,0,0,0
+India,Maharashtra,Mumbai,Ghatkopar,N,619556,23866,0.14,25.96,45,34,24,0,0,0
+India,Maharashtra,Mumbai,Goregaon,P/S,437849,17915,0.14,24.44,54,53,26,0,0,0
+India,Maharashtra,Mumbai,Malad,P/N,796775,41651,0.14,19.13,65,54,26,0,0,0
+India,Maharashtra,Mumbai,Kandivalli,R/S,589886,33177,0.14,17.78,77,34,27,0,0,0
+India,Maharashtra,Mumbai,Borivali West,R/C,513077,10262,0.14,50,45,45,27,0,0,0
+India,Maharashtra,Mumbai,Dahiser,R/N,363827,20213,0.14,18,75,34,25,0,0,0
+India,Maharashtra,Mumbai,Bhandup,S,691227,10800,0.14,64,56,34,24,0,0,0
+India,Maharashtra,Mumbai,Mulund,T,330195,7270,0.14,45.42,67,34,24,0,0,0
+India,Maharashtra,Mumbai,Total,Total,11976439,24811.94716,0.14,482.69,1184,847,587,0,0,0
